@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"Alegreya Sans";
+    font-weight: 100;
+}
+.clr{
+    clear: both;
+}
+/*================================================ first section ========================================*/
+.mainpage{
+   
+    height: 800px;
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+   
+}
+.textover{
+  
+    text-align: center;
+    margin-top: 210px;
+    color: white;
+}
+.textover h3{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.textover h1{
+    font-size: 70px;
+}
+.textover p{
+    font-size: 25px;
+    margin: 25px 0;
+    
+}
+.btn1,.btn2{
+    color: white;
+    padding: 15px 15px;
+    border-radius: 5px;
+    width: 130px;
+    height: 60px;
+}
+
+.btn1
+{
+    background-color: #8e7754;
+    border: none;
+    margin-right: 5px;
+   
+}
+.btn2{
+
+    background-color: transparent;
+    border: white solid 2px;
+    
+}
+/*================================================ seconed section ========================================*/
+.bake-img{
+    width: 50%;
+    float: left;
+}
+.bake-img img{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 110px;
+    margin-bottom: 50px; 
+}
+.bake-info{
+    width: 50%;
+    float: left;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+.bake-info i{
+    float: left;
+    border-radius: 50%;
+    font-size: 25px;
+    text-align: center;
+    padding-right: 25px;
+}
+.bake-info p{
+    font-size: 15px;
+    margin: 25px 0;
+    color: #686868;
+}
+.bake-info h4{
+    color: #686868;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+/*================================================ third section ========================================*/
+.location{
+    background-color: #f8f8f8;
+}
+.loc-info{
+  width: 50%;
+  float: left;
+  margin-top: 150px;
+  margin-bottom: 50px;  
+}
+.loc-info *{
+ margin-left: 110px;
+}
+.loc-info p{
+    color: #686868;
+}
+.loc-img{
+ width: 50%;
+ float: left;
+}
+
+.loc-img img{
+    width: 75%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+}
+/*================================================ fourth section ========================================*/
+.our-baking{
+    margin-bottom: 250px;
+}
+.our-baking *{
+    text-align: center;
+}
+.our-baking h1{
+    margin-top:90px;
+}
+.our-baking p{
+    color: #686868;
+    font-size: 18px;
+}
+.baking1{
+     width: 25%;
+     height: 300;
+     float: left;
+     margin-left: 10%;
+}
+.baking1 img{
+    width:100%;
+}
+.baking2{
+    width: 25%;
+    height: 300;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.baking2 img{
+    width:100%;
+}
+.baking3{
+    width: 25%;
+    height: 300;
+    float: left;
+    margin-right: 10%;
+}
+.baking3 img {
+    width:100%;
+}
+/*================================================ fifth section ========================================*/
+.contact{
+    background-color: #f8f8f8;
+}
+.contact p{
+    color: #686868;
+}
+.info{
+    width: 38%;
+    float: left;
+    margin-left: 10%;
+    margin-right:2%;
+    margin-top:120px;
+    margin-bottom: 60px;
+}
+.info img{
+    float: left;
+}
+.map{
+    width: 38%;
+    float: left;
+    margin-left:2%;
+    margin-right:10%;
+    margin-top:120px;
+    margin-bottom: 60px;
+
+}
+/*================================================ sixth section ========================================*/
+.last-section{
+    background-color: #403d38;
+    height: 450px;
+}
+.last-section p{
+    color: #686868;
+}
+.last-section h3{
+    margin-top: 30px;
+    color: white;
+}
+.about-us{
+  width: 20%;
+  float: left;
+  margin-left: 8%;
+  margin-right: 15px;
+}
+.special{
+    width: 20%;
+    float: left;
+    margin-right: 15px;
+}
+.special p{
+    border-bottom: 2px solid  #686868;
+}
+.open-time{
+    width: 20%;
+    float: left;
+    margin-right: 15px;
+}
+.open-time p{
+    border-bottom: 2px solid  #686868;
+}
+.contact-us{
+    background-image: url(images/contact-details-map.png);
+    width: 20%;
+    float: left;
+    margin-right: 8%;
+}
+.contact-us img{
+    float: left;
+    background-size: 100% 100%;
+}
+.contact-us p{
+    border-bottom: 2px solid  #686868;
+}
+/*================================================ sevinth section ========================================*/
+.footer{
+    background-color: #353330;
+}
+.footer-logo img{
+    margin-top: 40px;
+    margin-left: 35%;
+    text-align: center;
+}
+.footer p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #686868;
+}
+.footer-icon{
+    width: 15%;
+    margin: auto;
+}
+.footer-icon i{
+    font-size: 30px;
+    margin: 10px 10px;
+}
+.blue{
+    color:rgb(78, 78, 255);
+}
+
+.img1{
+    margin-left: 600px;
+}
